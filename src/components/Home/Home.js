@@ -16,7 +16,7 @@ const Home = () => {
                     <Typography sx={{color: "#2C394B", fontWeight: "400", paddingRight: "20px"}} variant="h2">I want to make awesome websites</Typography>
                     <Typography sx={{fontWeight: "normal"}} variant="h6">Want to become Full stack web developer. Based in PAKISTAN</Typography>
                     <Link href="#contact" underline="none">
-                        <Button sx={{width: "15%", height: "3rem", marginTop: "10px"}} color="error" variant="outlined">Get in Touch</Button>
+                        <Button sx={{width: "25%", height: "3rem", marginTop: "10px"}} color="error" variant="outlined">Get in Touch</Button>
                     </Link>
                 </Box>
                 <Box>
