@@ -1,0 +1,20 @@
+.rotate {
+    animation: mymove 5s infinite;
+    display: inline-block;
+}
+
+@keyframes mymove {
+    50% {transform: rotate(80deg);}
+  }
+
+.animation {
+    animation: mycolor 5s infinite;
+}
+
+@keyframes mycolor {
+    0% { color: #bd3b22; }
+    25% { color: #FFFF; }
+    50% { color: yellow; }
+    75% { color: #00FFFF; }
+    100% { color: #FF00FF; }
+  }
