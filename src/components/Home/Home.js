@@ -10,7 +10,7 @@ const Home = () => {
     return ( 
         <div className="home" style={{height : "90vh"}} id="home">
             <Box sx={{display : "flex", flexDirection : "row", justifyContent : "center", alignItems : "center", height: "100%", paddingBottom: "10px"}}>
-                <Box sx={{display : "flex", flexDirection : "column"}}>
+                <Box sx={{display : "flex", flexDirection : "column", marginLeft: "3rem"}}>
                     <Typography sx={{color: "#bd3b22"}} variant="h3">Hi! there <div className="rotate">👋</div> I am</Typography>
                     <Typography className="animation" sx={{fontFamily: "sans-serif", fontWeight: "600"}} variant="h2">SUBHAN IMRAN</Typography>
                     <Typography sx={{color: "#2C394B", fontWeight: "400", paddingRight: "20px"}} variant="h2">I want to make awesome websites</Typography>
