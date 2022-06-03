@@ -134,7 +134,7 @@ const ResponsiveAppBar = () => {
             </Link>
           </Box>
           <Box sx={{ flexGrow: 0 }}>
-            <Link target="_blank" underline="none" href={"https://drive.google.com/file/d/1fGoDLxdBpEcvTSARrUM-IcLwsUuJyZyQ/view?usp=sharing"}>
+            <Link target="_blank" underline="none" href={"https://drive.google.com/file/d/1vEionMpRVo3xDTrFrH1bOqtviPMw_Ed1/view?usp=sharing"}>
               <Button color="error" variant="outlined">Resume</Button>
             </Link>
           </Box>
